@@ -2,7 +2,7 @@
 
 ### Status do projeto: Em Desenvolvimento.
 
-Tecnologias utilizadas: Java; MySQL; Git;
+### Tecnologias utilizadas: Java; MySQL; Git;
 
 Desenvolvedores: Guilherme Gonçalves Dantas.
 
